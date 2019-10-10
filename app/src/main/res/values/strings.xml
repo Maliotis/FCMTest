@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCMTest</string>
+    <string name="msg_token_fmt">token </string>
+</resources>
